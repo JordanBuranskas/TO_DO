@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: rgba(15, 32, 107, 0.87);
+  background-color: #d80909;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -26,8 +26,9 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  min-width: 820px;
   min-height: 100vh;
+  background-color: #9d9ea2;
 }
 
 h1 {
